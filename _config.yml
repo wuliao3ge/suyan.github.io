@@ -4,7 +4,7 @@ email: 1046778620@.com
 description: > # this means to ignore newlines until "baseurl:"
   Sunly Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://Sunly.club # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Sunly
 
@@ -16,7 +16,7 @@ recent_num: 20
 # Social account
 #twitter: masonsuyan
 #weibo: suyan0830
-#github: suyan
+github: wuliao3ge
 #instagram: suyan0830
 #linkedin: suyan0830
 
