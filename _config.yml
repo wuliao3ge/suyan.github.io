@@ -1,12 +1,12 @@
 # Site settings
-title: 李阳的博客
+title: Sunly Blog
 email: 1046778620@.com
 description: > # this means to ignore newlines until "baseurl:"
-  李阳的博客
+  Sunly Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Sunly
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+#twitter: masonsuyan
+#weibo: suyan0830
+#github: suyan
+#instagram: suyan0830
+#linkedin: suyan0830
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: http://ou35mppss.bkt.clouddn.com/mainhead.jpg
+favicon: http://ou35mppss.bkt.clouddn.com/mainhead.ico
 
 # disqus config
 disqus:
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: sunly.club
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
